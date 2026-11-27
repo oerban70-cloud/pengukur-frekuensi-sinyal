@@ -8,7 +8,7 @@ mengecek osilator NE555, keluaran PWM, generator fungsi, atau sensor
 berpulsa — tanpa osiloskop.
 
 Video penjelasan (60 detik):
-link menyusul setelah upload
+https://www.youtube.com/shorts/URL-xRv4GLY
 
 ## Komponen
 
